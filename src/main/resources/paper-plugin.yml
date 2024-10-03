@@ -1,0 +1,4 @@
+name: INFJ_Survival
+version: '1.0-SNAPSHOT'
+main: com.hwibaek.iNFJ_Survival.INFJ_Survival
+api-version: '1.21'

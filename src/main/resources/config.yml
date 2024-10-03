@@ -1,0 +1,14 @@
+﻿# 무지개반사의 최대 내구도
+orb_durability: 100
+
+# 반사 데미지 퍼센트(백분위)
+reflection_percentage: 100
+
+# 무지개반사 파괴 시 알림 출력
+orb_broken_message: true
+
+# 무지개반사 방어 시 내구도 + 방어한 피해량 출력
+orb_guard_message: true
+
+# 무지개반사 파괴 시 데미지 무효화
+orb_broken_guard: false
